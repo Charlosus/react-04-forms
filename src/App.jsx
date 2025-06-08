@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
+// import reactLogo from './assets/react.svg';
+// import viteLogo from '/vite.svg';
 import './App.css';
 
 // when using form we dont use onclick we use onSubmit on form and this will submit form and use event
